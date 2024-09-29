@@ -1,4 +1,4 @@
-//Clase que representa el registro de empleados con sus atributos
+//clase que representa el registro de empleados con sus atributos
 public class EmployeeRecord {
     private String firstName;
     private String lastName;
