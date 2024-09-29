@@ -1,4 +1,4 @@
-# CuriousCluster
+# CodeCanvas
 bootcamp homework
 
 
