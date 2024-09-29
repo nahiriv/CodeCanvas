@@ -3,17 +3,4 @@
 
 # Ignore output directories
 .out/
-target/
-bin/
 
-# Ignore compiled Java files
-*.class
-*.jar
-*.war
-
-# Ignore log files
-*.log
-
-# Ignore OS generated files
-.DS_Store  # macOS
-Thumbs.db  # Windows
