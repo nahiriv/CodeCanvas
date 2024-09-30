@@ -1,0 +1,5 @@
+# Ignore IDE configuration files
+.idea/
+
+# Ignore output directories
+.out/
